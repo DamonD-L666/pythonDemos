@@ -1,3 +1,3 @@
 guys,wait a moment please.I am ready to upload.
 
-1.TaobaoSpider01.py	--> catch product information from taobao.
+1.MySpider.py	--> catch product information from taobao.
